@@ -8,15 +8,15 @@ Aplicação web que permite gerenciar tarefas diárias de forma simples e intuit
 
 ## Funcionalidades
 
-- ✅ Adicionar novas tarefas através de um formulário
-- ✅ Exibir tarefas em uma lista organizada
-- ✅ Marcar tarefas como concluídas com um clique (aplica text-decoration: line-through)
-- ✅ Desmarcar tarefas concluídas com um segundo clique
-- ✅ Contador automático de tarefas
-- ✅ Validação para não adicionar tarefas vazias
-- ✅ Suporte à tecla Enter para adicionar tarefas
-- ✅ Design responsivo e moderno
-- ✅ Mensagem amigável quando não há tarefas cadastradas
+-  Adicionar novas tarefas através de um formulário
+-  Exibir tarefas em uma lista organizada
+-  Marcar tarefas como concluídas com um clique (aplica text-decoration: line-through)
+-  Desmarcar tarefas concluídas com um segundo clique
+-  Contador automático de tarefas
+-  Validação para não adicionar tarefas vazias
+-  Suporte à tecla Enter para adicionar tarefas
+-  Design responsivo e moderno
+-  Mensagem amigável quando não há tarefas cadastradas
 
 ##  Tecnologias Utilizadas
 
